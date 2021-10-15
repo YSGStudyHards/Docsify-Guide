@@ -1,6 +1,6 @@
 ## Docsify使用指南
 
-![image-20211010134913174](images/image-20211010134913174.png)
+![image-20211016010648260](images/image-20211016010648260.png)
 
 ## Node.js 安装配置
 
@@ -116,9 +116,9 @@ docsify serve Docsify-Guide
             // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
             coverpage: true,
             // 最大支持渲染的标题层级
-            maxLevel: 4,
-            // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级，建议配置为1或者2
-            subMaxLevel: 2,
+            maxLevel: 5,
+            // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
+            subMaxLevel: 4,
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
         }
@@ -195,7 +195,7 @@ docsify serve Docsify-Guide
 [开始使用 Let Go](/README.md)
 ```
 
-![image-20211010140904827](images/image-20211010140904827.png)
+![image-20211016010808681](images/image-20211016010808681.png)
 
 ## 侧边栏配置文件（_sidebar.md）
 
@@ -272,9 +272,7 @@ docsify serve Docsify-Guide
 
 ```
 
-![image-20211010134836130](images/image-20211010134836130.png)
-
-
+![image-20211016010857082](images/image-20211016010857082.png)
 
 
 

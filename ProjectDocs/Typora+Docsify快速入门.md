@@ -140,7 +140,6 @@ https://www.typora.net/themes/
 
 ## 参考文章
 
-* [Typora 中的图像](https://support.typora.io/Images/#when-insert-images)
-* [快速上手Typora](https://juejin.cn/post/6898943126480781319#)
+* [Typora 中的图像处理](https://support.typora.io/Images/#when-insert-images)
 * [Typora使用问题](https://www.typora.net/tag/typora%e4%bd%bf%e7%94%a8/)
 
