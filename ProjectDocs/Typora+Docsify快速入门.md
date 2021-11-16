@@ -50,6 +50,8 @@ https://www.typora.net/themes/
 
 段落：**CTRL+`0`**
 
+打开大纲视图：**ctrl + shift + 1**
+
 一级标题: **CTRL + `1`**  这个是1级标题，最大的字号
 
 二级标题: **CTRL + `2`** 
