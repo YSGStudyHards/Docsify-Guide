@@ -80,7 +80,7 @@ docsify serve Docsify-Guide
 
 ## 基础配置项（index.html）
 
-> 以下是一份基本的配置项如下(可直接使用)：
+> 下面是一份基础的配置项模板如下(可直接Copy使用)。
 
 ``` html
 <!DOCTYPE html>
@@ -295,6 +295,7 @@ https://docsify.js.org/#/zh-cn/themes
 * [docsify-github地址](https://github.com/docsifyjs/docsify/#showcase)
 * [docsify快速开始-官方教程](https://docsify.js.org/#/zh-cn/quickstart)
 * [使用开源文档工具docsify，用写博客的姿势写文档](https://www.cnblogs.com/throwable/p/13605289.html)
+* [Docsify使用指南（打造最强、最轻量级的个人&团队文档）](https://www.cnblogs.com/Can-daydayup/p/15413267.html)
 
 
 
