@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cn">
 
 <head>
     <meta charset="UTF-8">
@@ -23,19 +23,19 @@
             // 项目名称
             name: 'Docsify-Guide',
             // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
-            repo: 'https://github.com/YSGStudyHards',
+            // repo: 'https://github.com/TatsukiMengChen/devToolbox',
             // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
             loadSidebar: true,
             // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
             loadNavbar: true,
             // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
-            coverpage: true,
+            coverpage: false,
             // 最大支持渲染的标题层级
             maxLevel: 5,
             // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-            subMaxLevel: 4,
+            subMaxLevel: 3,
             // 小屏设备下合并导航栏到侧边栏
-            mergeNavbar: true,
+            mergeNavbar: false,
         }
     </script>
     <script>
@@ -47,13 +47,12 @@
                 placeholder: '搜索',
                 // 支持本地化
                 placeholder: {
-                    '/zh-cn/': '搜索',
-                    '/': 'Type to search'
+                    '/': '搜索'
                 },
                 noData: '找不到结果',
                 depth: 4,
                 hideOtherSidebarContent: false,
-                namespace: 'Docsify-Guide',
+                namespace: 'devToolbox',
             }
         }
     </script>
