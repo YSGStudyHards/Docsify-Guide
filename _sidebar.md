@@ -1,6 +1,5 @@
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md)
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+* 开发教程  
+  * [UI编辑 - 动画脚本](/docs/UI编辑_动画脚本.md)
+  * [脚本API接口](https://developers.mini1.cn/wiki/API.html)
 
+* [常见问题](README.md)
