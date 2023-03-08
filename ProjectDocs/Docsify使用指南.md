@@ -61,6 +61,20 @@ docsify serve Docsify-Guide
 
 ![image-20211010124211458](images/image-20211010124211458.png)
 
+## Linux下后台部署项目
+在Linux下如果使用下面的命令启动docsify，会发现一旦关闭了xShell，那么就访问不了了，具体问题还不清楚，下面说种可以在后台运行的方法；
+```shell
+nohup docsify serve 项目地址 --port=80 > /dev/null 2>&1 &
+```
+通过编写shell脚本，将上面代码放到脚本里面，再启动就可以了；    
+1、创建脚本：vim start_docsify.sh
+```shell
+#! bin/bash
+nohup docsify serve 项目地址 --port=80 > /dev/null 2>&1 &
+```
+2、启动脚本
+```shell
+bash start_docsify.sh
 
 
 ## 基础配置文件介绍
