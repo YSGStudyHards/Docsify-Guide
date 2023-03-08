@@ -75,7 +75,7 @@ nohup docsify serve 项目地址 --port=80 > /dev/null 2>&1 &
 2、启动脚本
 ```shell
 bash start_docsify.sh
-
+```
 
 ## 基础配置文件介绍
 
